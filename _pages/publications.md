@@ -20,17 +20,3 @@ author_profile: true
 <div class="pub-entry">
   <div class="pub-title">Housing Risk, Portfolio Choice, and Wealth Inequality</div>
 </div>
-
-<p class="pub-section">Pre-Doc Work</p>
-
-<div class="pub-entry">
-  <div class="pub-title"><a href="https://www.sciencedirect.com/science/article/pii/S1062940824001761">Dynamic Credit Risk Transmissions Among Global Major Industries</a></div>
-  <div class="pub-authors">with Sun-Yong Choi</div>
-  <div class="pub-venue">North American Journal of Economics and Finance, 2024</div>
-</div>
-
-<div class="pub-entry">
-  <div class="pub-title"><a href="https://doi.org/10.1371/journal.pone.0277261">Impact of Liquidity Spillovers Among Industrial Sectors on Stock Markets During Crisis Periods</a></div>
-  <div class="pub-authors">with Sun-Yong Choi</div>
-  <div class="pub-venue">PLOS ONE, 2022</div>
-</div>
