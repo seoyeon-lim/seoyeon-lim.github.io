@@ -18,7 +18,7 @@ author_profile: true
 <p class="pub-section">Work in Progress</p>
 
 <div class="pub-entry">
-  <div class="pub-title">Housing Risk, Portfolio Choice, and Wealth Inequality</div>
+  <div class="pub-title">Household Portfolios and Wealth Inequality During a Housing Bust</div>
 </div>
 
 <div class="pub-entry">
