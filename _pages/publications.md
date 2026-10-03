@@ -20,3 +20,7 @@ author_profile: true
 <div class="pub-entry">
   <div class="pub-title">Housing Risk, Portfolio Choice, and Wealth Inequality</div>
 </div>
+
+<div class="pub-entry">
+  <div class="pub-title">Risks of Homeownership and Wealth Inequality</div>
+</div>
