@@ -15,11 +15,13 @@ author_profile: true
   .pub-venue   { font-size: 0.85em; font-style: italic; color: var(--global-text-color); }
   .pub-section { font-size: 1em; font-weight: bold; border-bottom: 1px solid var(--global-border-color); padding-bottom: 0.3em; margin-top: 1.5em; margin-bottom: 1em; }
   .pub-entry   { margin-bottom: 1.4em; }
-  .pub-abstract { margin-top: 0.4em; }
-  .pub-abstract summary { display: inline-block; list-style: none; cursor: pointer; font-size: 0.72em; padding: 0.15em 0.8em; border: 1px solid var(--global-text-color); border-radius: 3px; color: var(--global-text-color); }
+  .pub-abstract { margin-top: 0.15em; }
+  .pub-abstract summary { display: inline-block; list-style: none; cursor: pointer; font-size: 0.8em; color: var(--global-text-color); }
   .pub-abstract summary::-webkit-details-marker { display: none; }
-  .pub-abstract summary:hover, .pub-abstract[open] summary { color: var(--global-base-color); border-color: var(--global-base-color); }
-  .pub-abstract p { font-size: 0.83em; line-height: 1.6; margin: 0.6em 0 0; padding: 0.6em 0.9em; border-left: 2px solid var(--global-base-color); }
+  .pub-abstract summary::before { content: "▸ "; }
+  .pub-abstract[open] summary::before { content: "▾ "; }
+  .pub-abstract summary:hover, .pub-abstract[open] summary { color: var(--global-base-color); }
+  .pub-abstract p { font-size: 0.83em; line-height: 1.6; margin: 0.4em 0 0 1.2em; }
 </style>
 
 <p class="pub-section">Work in Progress</p>
