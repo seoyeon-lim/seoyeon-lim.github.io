@@ -30,6 +30,7 @@ author:
   bio              : "PhD Student in Economics"
   location         : "Columbus, OH, USA"
   employer         : "The Ohio State University"
+  employer_url     : "https://economics.osu.edu/people/lim.1523" # department profile
   uri              : # URL
   email            : "lim.1523@osu.edu"
   cv               : "/files/cv.pdf" # path to your CV file
