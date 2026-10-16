@@ -30,7 +30,7 @@ author_profile: true
   <div class="pub-title">Household Portfolios and Wealth Inequality During a Housing Bust</div>
   <details class="pub-abstract">
     <summary>Abstract</summary>
-    <p>How do mortgage leverage and housing illiquidity shape household portfolio adjustment after a housing bust? I study how changes in housing and financial asset holdings differ across households with different initial wealth and mortgage leverage. The project examines whether these adjustment patterns help explain changes in wealth inequality beyond the direct effects of falling house prices.</p>
+    <p>How do mortgage leverage and housing illiquidity shape household portfolio adjustment after a housing bust? Using household-level evidence from the 2007–2009 Survey of Consumer Finances (SCF) panel, I examine how changes in housing and financial asset holdings vary with initial wealth and mortgage leverage. The project investigates whether these adjustment patterns help explain changes in wealth inequality beyond the direct effects of falling house prices.</p>
   </details>
 </div>
 
@@ -38,7 +38,7 @@ author_profile: true
   <div class="pub-title">Risks of Homeownership and Wealth Inequality</div>
   <details class="pub-abstract">
     <summary>Abstract</summary>
-    <p>How does exposure to housing market risks shape wealth inequality? Combining household panel data from the PSID with mortgage market data from HMDA and house price indices from the FHFA, I examine how local housing and credit conditions relate to wealth inequality and households’ entry into and exit from homeownership. The project investigates how differences in housing risk exposure and household adjustment contribute to wealth inequality.</p>
+    <p>How does exposure to housing market risks shape wealth inequality? Combining PSID household panel data covering 1999–2023 with mortgage market data from HMDA and house price indices from the FHFA, I examine how local housing and credit conditions relate to wealth inequality and households’ entry into and exit from homeownership. The project investigates how differences in housing risk exposure and household adjustment contribute to wealth inequality.</p>
   </details>
 </div>
 
