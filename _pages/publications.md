@@ -12,7 +12,7 @@ author_profile: true
   .pub-authors { font-size: 0.83em; color: #5a6a80; }
   .pub-authors a { color: inherit; text-decoration: none; }
   .pub-authors a:hover { color: var(--global-base-color); text-decoration: underline; }
-  .pub-venue   { font-size: 0.85em; font-style: italic; color: var(--global-base-color); }
+  .pub-venue   { font-size: 0.85em; font-style: italic; color: #5a6a80; }
   .pub-section { font-size: 1em; font-weight: bold; border-bottom: 1px solid var(--global-border-color); padding-bottom: 0.3em; margin-top: 1.5em; margin-bottom: 1em; }
   .pub-entry   { margin-bottom: 1.4em; }
 </style>
