@@ -42,7 +42,7 @@ author_profile: true
   </details>
   <details class="pub-toggle">
     <summary>Presentations</summary>
-    <p>OSU Macro workshop organized by Dempsey-Khan-Thomas</p>
+    <p>OSU Macro workshop organized by Dempsey-Khan-Thomas, SP2026</p>
   </details>
 </div>
 
