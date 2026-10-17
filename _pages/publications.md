@@ -15,20 +15,20 @@ author_profile: true
   .pub-venue   { font-size: 0.85em; font-style: italic; color: var(--global-text-color); }
   .pub-section { font-size: 1em; font-weight: bold; border-bottom: 1px solid var(--global-border-color); padding-bottom: 0.3em; margin-top: 1.5em; margin-bottom: 1em; }
   .pub-entry   { margin-bottom: 1.4em; }
-  .pub-abstract { margin-top: 0.15em; }
-  .pub-abstract summary { display: inline-block; list-style: none; cursor: pointer; font-size: 0.8em; color: var(--global-text-color); }
-  .pub-abstract summary::-webkit-details-marker { display: none; }
-  .pub-abstract summary::before { content: "▸ "; }
-  .pub-abstract[open] summary::before { content: "▾ "; }
-  .pub-abstract summary:hover, .pub-abstract[open] summary { color: var(--global-base-color); }
-  .pub-abstract p { font-size: 0.83em; line-height: 1.6; margin: 0.4em 0 0 1.2em; }
+  .pub-toggle { margin-top: 0.15em; }
+  .pub-toggle summary { display: inline-block; list-style: none; cursor: pointer; font-size: 0.8em; color: var(--global-text-color); }
+  .pub-toggle summary::-webkit-details-marker { display: none; }
+  .pub-toggle summary::before { content: "▸ "; }
+  .pub-toggle[open] summary::before { content: "▾ "; }
+  .pub-toggle summary:hover, .pub-toggle[open] summary { color: var(--global-base-color); }
+  .pub-toggle p { font-size: 0.83em; line-height: 1.6; margin: 0.4em 0 0 1.2em; }
 </style>
 
 <p class="pub-section">Work in Progress</p>
 
 <div class="pub-entry">
   <div class="pub-title">Household Portfolios and Wealth Inequality During a Housing Bust</div>
-  <details class="pub-abstract">
+  <details class="pub-toggle">
     <summary>Abstract</summary>
     <p>How do mortgage leverage and housing illiquidity shape household portfolio adjustment after a housing bust? Using household-level evidence from the 2007–2009 Survey of Consumer Finances (SCF) panel, I examine how changes in housing and financial asset holdings vary with initial wealth and mortgage leverage. The project investigates whether these adjustment patterns help explain changes in wealth inequality beyond the direct effects of falling house prices.</p>
   </details>
@@ -36,9 +36,13 @@ author_profile: true
 
 <div class="pub-entry">
   <div class="pub-title">Risks of Homeownership and Wealth Inequality</div>
-  <details class="pub-abstract">
+  <details class="pub-toggle">
     <summary>Abstract</summary>
     <p>How does exposure to housing market risks shape wealth inequality? Combining PSID household panel data covering 1999–2023 with mortgage market data from HMDA and house price indices from the FHFA, I examine how local housing and credit conditions relate to wealth inequality and households’ entry into and exit from homeownership. The project investigates how differences in housing risk exposure and household adjustment contribute to wealth inequality.</p>
+  </details>
+  <details class="pub-toggle">
+    <summary>Presentations</summary>
+    <p>Macro workshop organized by Dempsey-Khan-Thomas</p>
   </details>
 </div>
 
