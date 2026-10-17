@@ -38,7 +38,7 @@ author_profile: true
   <div class="pub-title">Risks of Homeownership and Wealth Inequality</div>
   <details class="pub-toggle">
     <summary>Abstract</summary>
-    <p>How does exposure to housing market risks shape wealth inequality? Combining PSID household panel data covering 1999–2023 with mortgage market data from HMDA, house price indices from the FHFA, and labor market data from the BLS, I examine how local housing, credit, and labor market conditions relate to wealth inequality and households’ entry into and exit from homeownership. The project investigates how differences in housing risk exposure and household adjustment contribute to wealth inequality.</p>
+    <p>How does exposure to housing market risks shape wealth inequality? Combining PSID household panel data covering 1999–2023 with mortgage market data from HMDA and house price indices from the FHFA, I examine how local housing and credit conditions relate to wealth inequality and households’ entry into and exit from homeownership, controlling for regional macroeconomic conditions using BLS unemployment rates. The project investigates how differences in housing risk exposure and household adjustment contribute to wealth inequality.</p>
   </details>
   <details class="pub-toggle">
     <summary>Presentation</summary>
