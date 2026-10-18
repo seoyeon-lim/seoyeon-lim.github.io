@@ -50,7 +50,7 @@ author_profile: true
   <div class="pub-title">House-Price Appreciation and Household Wealth after the Pandemic</div>
 </div>
 
-<p class="pub-section">Pre-PhD Publications</p>
+<p class="pub-section">Pre-PhD Work</p>
 
 <div class="pub-entry">
   <div class="pub-title"><a href="https://www.sciencedirect.com/science/article/pii/S1062940824001761">Dynamic Credit Risk Transmissions Among Global Major Industries</a></div>
