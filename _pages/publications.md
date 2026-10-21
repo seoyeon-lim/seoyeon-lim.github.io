@@ -32,6 +32,10 @@ author_profile: true
     <summary>Abstract</summary>
     <p>How do mortgage leverage and housing illiquidity shape household portfolio adjustment after a housing bust? Using household-level evidence from the 2007–2009 Survey of Consumer Finances (SCF) panel, I examine how changes in housing and financial asset holdings vary with initial wealth and mortgage leverage. The project investigates whether these adjustment patterns help explain changes in wealth inequality beyond the direct effects of falling house prices.</p>
   </details>
+  <details class="pub-toggle">
+    <summary>Presentation</summary>
+    <p>OSU Student Macro Workshop, AU2026</p>
+  </details>
 </div>
 
 <div class="pub-entry">
