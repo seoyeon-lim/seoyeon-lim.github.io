@@ -34,7 +34,7 @@ author_profile: true
   </details>
   <details class="pub-toggle">
     <summary>Presentation</summary>
-    <p>OSU Student Macro Workshop, AU2026</p>
+    <p>OSU Macro Student Lunch, AU2026</p>
   </details>
 </div>
 
