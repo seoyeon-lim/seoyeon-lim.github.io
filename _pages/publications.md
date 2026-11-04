@@ -50,10 +50,6 @@ author_profile: true
   </details>
 </div>
 
-<div class="pub-entry">
-  <div class="pub-title">House-Price Appreciation and Household Wealth after the Pandemic</div>
-</div>
-
 <p class="pub-section">Pre-PhD Work</p>
 
 <div class="pub-entry">
